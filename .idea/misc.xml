@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.2703125" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/drawable/ic_baseline_gamepad_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/layout/activity_task_details.xml" value="0.264" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/layout/item_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/layout/task_layout.xml" value="0.4" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/layout/tasklist_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/TodoApp/app/src/main/res/menu/sync_menu.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/drawable/ic_baseline_delete.xml" value="0.2703125" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/activity_book_details.xml" value="0.264" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/activity_task_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/activity_tasklist_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/book_layout.xml" value="0.264" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/task_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mats/matsHauglandJohansen/bookCollection/app/src/main/res/layout/tasklist_layout.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

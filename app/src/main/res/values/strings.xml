@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Project 1 - Todo App</string>
+    <string name="book_listing_url">https://raw.githubusercontent.com/benoitvallon/100-best-books/master/books.json</string>
+</resources>
