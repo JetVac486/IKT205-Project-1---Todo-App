@@ -91,12 +91,10 @@ class TasklistDepositoryManager {
             .addOnSuccessListener {
                 Log.d(TAG, "${it.toString()} Downloaded")
                 this.load(path, fileName)
-                Toast.makeText(MainActivity(), "Download sucess", Toast.LENGTH_SHORT).show()
             }
 
             .addOnFailureListener{
                 Log.e(TAG, "Error accured trying to download file from Firebase")
-                Toast.makeText(MainActivity(), "Download failed!", Toast.LENGTH_SHORT).show()
             }
 
             .addOnProgressListener { taskSnapshot ->
