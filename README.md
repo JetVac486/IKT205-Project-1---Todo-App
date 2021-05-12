@@ -16,6 +16,6 @@ Det er også en Tilkobling til Firebase og Firebase Storage for opplasting og ne
 
 https://appdistribution.firebase.dev/i/7d250c6d153137b8
 
+# Author
 
-
-
+Mats Haugland Johansen
